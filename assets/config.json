@@ -1,0 +1,24 @@
+{
+    "config" : {
+	"splash" : {
+	    "decorated" : false,
+	    "width" : 640,
+	    "height" : 360,
+	    "fullscreen" : false,
+	    "test" : true,
+	    "buttons" : [
+		{ "id" : 1, "text" : "Play!",
+		  "normal" : "play_btn_n.png",
+		  "hover" : "play_btn_h.png",
+		  "tooltip" : "Play ze game!"},
+		{ "id" : 0, "text" : "QUIT!",
+		  "normal" : "quit_btn_n.png",
+		  "hover" : "quit_btn_h.png"},
+		{ "id" : 2, "text" : "Fullscreen",
+		  "normal" : "fs_btn_n.png",
+		  "hover" : "fs_btn_h.png",
+		  "selected" : "fs_btn_s.png"}
+	    ]
+	}
+    }
+}

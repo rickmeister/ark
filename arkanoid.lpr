@@ -1,0 +1,5 @@
+program arkanoid;
+
+begin
+end.
+
