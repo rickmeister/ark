@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="arkanoid.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="12"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="arktypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="9" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/share/fpcsrc/3.0.0/packages/fcl-stl/src/ghashmap.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/share/fpcsrc/3.0.0/packages/fcl-stl/src/gmap.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="arkman.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="169"/>
+        <CursorPos Y="110"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="148" TopLine="123"/>
+      </Position1>
+      <Position2>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="160" Column="8" TopLine="137"/>
+      </Position2>
+      <Position3>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="152" Column="6" TopLine="139"/>
+      </Position3>
+      <Position4>
+        <Filename Value="arkanoid.pas"/>
+        <Caret Line="16" Column="44"/>
+      </Position4>
+      <Position5>
+        <Filename Value="arkanoid.pas"/>
+      </Position5>
+      <Position6>
+        <Filename Value="arktypes.pas"/>
+        <Caret Line="17" Column="30"/>
+      </Position6>
+      <Position7>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="115" Column="5"/>
+      </Position7>
+      <Position8>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="31" Column="15" TopLine="18"/>
+      </Position8>
+      <Position9>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="40" TopLine="79"/>
+      </Position9>
+      <Position10>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="50" Column="28" TopLine="36"/>
+      </Position10>
+      <Position11>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="49" Column="21" TopLine="36"/>
+      </Position11>
+      <Position12>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="50" Column="41" TopLine="36"/>
+      </Position12>
+      <Position13>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="49" Column="41" TopLine="37"/>
+      </Position13>
+      <Position14>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="51" Column="21" TopLine="36"/>
+      </Position14>
+      <Position15>
+        <Filename Value="arkanoid.pas"/>
+        <Caret Line="26" Column="43" TopLine="2"/>
+      </Position15>
+      <Position16>
+        <Filename Value="arkanoid.pas"/>
+        <Caret Line="28" Column="34" TopLine="7"/>
+      </Position16>
+      <Position17>
+        <Filename Value="arktypes.pas"/>
+        <Caret Line="17" Column="2"/>
+      </Position17>
+      <Position18>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="41" Column="45" TopLine="19"/>
+      </Position18>
+      <Position19>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="211" Column="11" TopLine="190"/>
+      </Position19>
+      <Position20>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="227" TopLine="202"/>
+      </Position20>
+      <Position21>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="223" Column="26" TopLine="200"/>
+      </Position21>
+      <Position22>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="209" Column="10" TopLine="198"/>
+      </Position22>
+      <Position23>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="214" Column="20" TopLine="200"/>
+      </Position23>
+      <Position24>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="211" Column="14" TopLine="198"/>
+      </Position24>
+      <Position25>
+        <Filename Value="arkanoid.pas"/>
+        <Caret Line="36" Column="5" TopLine="11"/>
+      </Position25>
+      <Position26>
+        <Filename Value="arkanoid.pas"/>
+        <Caret Line="31" Column="23" TopLine="11"/>
+      </Position26>
+      <Position27>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="109" TopLine="109"/>
+      </Position27>
+      <Position28>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="164" Column="7" TopLine="140"/>
+      </Position28>
+      <Position29>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="172" Column="9" TopLine="160"/>
+      </Position29>
+      <Position30>
+        <Filename Value="arkman.pas"/>
+        <Caret Line="134" Column="28" TopLine="116"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
